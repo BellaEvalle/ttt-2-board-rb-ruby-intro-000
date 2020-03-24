@@ -1,1 +1,1 @@
-board = array.new ("9")
+9.times = array.new
